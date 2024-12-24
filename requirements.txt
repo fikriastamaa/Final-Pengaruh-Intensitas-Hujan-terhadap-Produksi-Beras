@@ -1,9 +1,5 @@
 streamlit
 pandas
-matplotlib.pyplot
+matplotlib
 seaborn
 sklearn
-streamlit_option_menu 
-sklearn.ensemble
-sklearn.model_selection
-sklearn.metrics
