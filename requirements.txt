@@ -3,3 +3,4 @@ pandas
 matplotlib.pyplot
 seaborn
 sklearn
+streamlit_option_menu 
